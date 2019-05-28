@@ -1,0 +1,3 @@
+28/may
+
+removed the columns ArcInt and wind Tx ( second wind attribute ) because all the values are same and hence won't make any difference to the dataset
